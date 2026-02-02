@@ -1,3 +1,5 @@
+```js
+
 const Header = (props) => {
   console.log(props)
   return (
@@ -61,3 +63,6 @@ const App = () => {
 }
 
 export default App
+
+
+```
